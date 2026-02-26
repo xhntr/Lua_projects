@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lua Projects
 
-<!--
-**xhntr/xhntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my personal Lua projects and scripts.
 
-Here are some ideas to get you started:
+## Topics
+- Game scripting
+- Automation
+- Logic systems
+- Assetto Corsa modifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Example scripts
+- Gear shift logic
+- Vehicle control scripts
+- Utility scripts
+
+## Purpose
+I use Lua to experiment with scripting and logic for simulations and small tools.
+
+Author: Daniil Oliinyk
